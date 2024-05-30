@@ -1,0 +1,6 @@
+redis[hiredis]
+pydantic
+numpy 
+requests
+boto3
+pandas
